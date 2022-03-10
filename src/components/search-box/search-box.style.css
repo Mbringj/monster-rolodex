@@ -1,0 +1,7 @@
+.search-box {
+  margin: 1em 0;
+  padding: .5em;
+  border: .1em solid grey;
+  background-color: gainsboro;
+  border-radius: 5px;
+}
